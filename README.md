@@ -11,8 +11,6 @@ Benefits:
 - Time saving
 - Convenience
 
-We are planning to add option for a household to offer free space available for parking and earn in return.
-
 How it will work?
 
 The driver will find a suitable empty slot near him and book a slot or before starting the journey. For that he will provide his name, phone number and vehicle number as required information. When a driver fills out his information, it be associated with the particular parking slot selected by the driver while booking. 
